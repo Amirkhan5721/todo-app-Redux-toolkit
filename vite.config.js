@@ -4,5 +4,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base: "/todo-app-Redux-toolkit"
+  base: "/todo-app-Redux-toolkit/"
 })
